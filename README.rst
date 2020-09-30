@@ -33,7 +33,7 @@ The jQuery and jQuery UI libraries are not included in the distribution but must
 in your templates. See the example project for an example using these libraries from the
 Google CDN.
 
-Once installed you should add the urls to your root url patterns::
+Once installed you need to add the urls to your root url patterns::
 
     urlpatterns = patterns('',
         # Other patterns go here
